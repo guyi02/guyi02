@@ -12,7 +12,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>JavaScript () => es6+, Html5, CSS3 / Sass / Styled-Components, Bootstrap3+, React / React Native with [hooks, contexts, redux], react-query, Node (express), (learning) Nextjs, TypeScript, GraphQL, MongoDb, Mongoose, Postgres, Prisma and enthusiast of new technologies.</strong>
+  🦄 Linguagens: <strong>JavaScript () => es6+, Html5, CSS3 / Sass / Styled-Components, Bootstrap3+, React / React Native with [hooks, contexts, redux], react-query, Node (express), (learning) Golang, Nextjs, TypeScript, GraphQL, MongoDb, Mongoose, Postgres, Prisma and enthusiast of new technologies.</strong>
 </p>
 
 <p align="left">
