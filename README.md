@@ -20,8 +20,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas // tools: <strong>VSCode, MacOS, PC Desktop, Device Android and IPhone Simulator, AdobeXD, Figma, Heroku, Docker (learning
-), Git and GitHub.</strong>
+  💼 Ferramentas // tools: <strong> Git/GitHub, VSCode, MacOS, PC Desktop, Device Android and IPhone Simulator, AdobeXD, Figma, Jira, Trello Heroku.</strong>
 </p>
 
 <p align="left">
